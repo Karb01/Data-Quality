@@ -84,14 +84,6 @@ __pycache__/
 *.xlsx
 Processados/
 ```
-
----
-
-## 🧑‍💻 Autor
-
-Kaynan Ribeiro  
-[kaynan@example.com](mailto:kaynan@example.com)
-
 ---
 
 ## 📄 Licença
